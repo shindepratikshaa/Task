@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": "aec6",
+      "name": "Vaishnavi Date",
+      "dob": "2012-06-02",
+      "email": "vaishnavi@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "e801",
+      "name": "Test",
+      "dob": "2022-02-04",
+      "email": "test@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "4946",
+      "name": "Test",
+      "dob": "2022-02-04",
+      "email": "test@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "b02c",
+      "name": "Pratiksha",
+      "dob": "2001-07-20",
+      "email": "pratiksha7771@gmail.com",
+      "password": "pratu7771"
+    }
+  ]
+}
